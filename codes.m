@@ -1,6 +1,6 @@
 % System parameters   all of this not only second line
 A = 0.8;  % System matrix it is all bullshit
-B = 1.0;  % Input matrix
+B = 1.0;  % Input matrix   big chances or changesssssssss
 C = 1.0;  % Output matrix
 Q = 0.1;  % Process noise covariance
 R = 0.1;  % Measurement noise covariance
