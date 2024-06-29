@@ -1,4 +1,4 @@
-% System parameters
+% System parameters   all of this not only second line
 A = 0.8;  % System matrix it is all bullshit
 B = 1.0;  % Input matrix
 C = 1.0;  % Output matrix
